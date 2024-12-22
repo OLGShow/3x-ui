@@ -20,7 +20,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/OLGShow/3x-ui-OLJ/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/OLGShow/3x-ui/main/install.sh)
 
 ```
 
